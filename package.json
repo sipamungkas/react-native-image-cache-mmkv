@@ -164,5 +164,8 @@
     "name": "RNReactNativeImageCacheMmkvSpec",
     "type": "modules",
     "jsSrcsDir": "src"
+  },
+  "dependencies": {
+    "react-native-mmkv": "^2.10.2"
   }
 }
